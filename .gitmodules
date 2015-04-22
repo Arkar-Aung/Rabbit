@@ -1,9 +1,12 @@
 [submodule "Packages/ruby"]
 	path = Packages/ruby
 	url = git@github.com:Rabbit-Converter/Rabbit-Ruby.git
-[submodule "Packages/Objc"]
-	path = Packages/Objc
-	url = git@github.com:Rabbit-Converter/Rabbit-Objc.git
 [submodule "Packages/PHP"]
 	path = Packages/PHP
 	url = git@github.com:Rabbit-Converter/Rabbit-PHP.git
+[submodule "Packages/Objc"]
+	path = Packages/Objc
+	url = git@github.com:Rabbit-Converter/Rabbit-Objc.git
+[submodule "Packages/Elixir"]
+	path = Packages/Elixir
+	url = git@github.com:Rabbit-Converter/Rabbit-Elixir.git
